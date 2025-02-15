@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with collaborations for projects in web dev for front end<br>🌱 I’m currently learning react on my way to get into Full Stack Development<br>
+
 
 
 ## 🌐 Socials:
